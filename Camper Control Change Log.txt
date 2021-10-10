@@ -1,0 +1,77 @@
+
+
+v2.0
+Hardware
+	Arduio Mega 2560
+	Nextion Enhanced HMI 3.5"
+	8Ch i2c Relay Board
+	3no. DHT22 
+	5no. DS18B20
+	DC Voltage Dividers
+	AC VOltage MOnitor Module
+	DFRobot Gravity Liqui Level Sensor
+
+Software Features
+	DS18B20 Temp Monitoring
+	DHT22 Temp Monitoring
+	Relay control from HMI
+	DC Voltage Monitoring Main & Aux Batteries
+	AV Voltage Monitoring Hookup
+
+
+v2.1
+Hardware
+	Arduio Mega 2560
+	2no. Nextion Enhanced HMI 3.5"
+	8Ch i2c Relay Board
+	3no. DHT22 
+	5no. DS18B20
+	DC Voltage Dividers
+	AC VOltage MOnitor Module
+	DFRobot Gravity Liqui Level Sensor
+
+Software Features
+	DS18B20 Temp Monitoring
+	DHT22 Temp Monitoring
+	Relay control from both HMI
+	DC Voltage Monitoring Main & Aux Batteries
+	AV Voltage Monitoring Hookup
+	Status Indicator Colour on HMI for battery and temp levels
+
+v2.2
+Hardware
+	Arduio Mega 2560
+	2no. Nextion Enhanced HMI 3.5"
+	8Ch i2c Relay Board
+	3no. DHT22 
+	5no. DS18B20
+	DC Voltage Dividers
+	AC VOltage MOnitor Module
+	DFRobot Gravity Liqui Level Sensor
+	DC Resitance reading module
+
+Software Features
+	DS18B20 Temp Monitoring
+	DHT22 Temp Monitoring
+	Relay control from 2no. HMI
+	DC Voltage Monitoring Main & Aux Batteries
+	AV Voltage Monitoring Hookup
+	LPG Level from tank sender
+	System V & Current Monitoring
+		
+	
+Future
+Hardware
+	Addition of KSD Switch for Measuring Heater Air temp
+	Water Pump Control based on KSD status and hot tank temp
+	Wiper & Jet Heaters
+	Water Tank Heaters
+	WIFI Bylnk Control
+	Ceiling fan
+	Fridge thermometer DS18B20
+
+Software
+	Frost mode on mains
+	Automated water pump control
+	ceiling fan control
+
